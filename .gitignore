@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Dataset files
+*.pkl
+*.parquet
+*.h5
+*.feather
+# VS Code
+.vscode/
+*.code-workspace
+
+# Plotly exports - ALLOW docs/ folder
+*.html
+!docs/*.html
+docs/**/*.html
+*.png
+!docs/**/*.png
+*.jpg
+!docs/**/*.jpg
+
+# Backup files
+*.backup
+.gitignore.backup
+
+# Scripts
+cleanup.bat
+*.bat
+test_*.py
+
+# Other project folders (outside your main project)
+Advanced/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
