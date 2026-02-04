@@ -23,13 +23,13 @@ ENV/
 *.code-workspace
 
 # Plotly exports - ALLOW docs/ folder
-*.html
+
 !docs/
-!docs/**/*.html
-*.png
-!docs/**/*.png
-*.jpg
-!docs/**/*.jpg
+docs/**/*.html
+docs/**/*.png
+docs/**/*.jpg
+docs/**/*.jpeg
+docs/**/*.svg
 
 # Backup files
 *.backup
