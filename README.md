@@ -59,7 +59,7 @@ A high-level exploratory analysis focused on the three most popular roles: Data 
   
 ### 📊 1.2. Distribution Of Job Contract Types In Germany
 
-![1.2. Distribution of Job Contract Types in Germany](docs/images/1.2. Distribution of Job Contract Types in Germany_preview.png)
+![1.2. Distribution of Job Contract Types in Germany](docs/images/1.2.%20Distribution%20of%20Job%20Contract%20Types%20in%20Germany_preview.png)
 *Click image to view full size*
 
 [📥 Download full resolution PNG](docs/images/1.2. Distribution of Job Contract Types in Germany.png) | 
