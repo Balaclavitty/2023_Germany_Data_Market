@@ -200,7 +200,7 @@ Salary data availability in Germany is extremely limited and should not be inter
   
 ### 📊 4.1. Salary Distribution By Job Title In Germany.Png
 
-![4.1. Salary Distribution by Job Title in Germany.png](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title520in%20Germany.png_preview.png)
+![4.1. Salary Distribution by Job Title in Germany.png](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title20in%20Germany.png_preview.png)
 *Click image to view full size*
 
 [📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title520in%20Germany.png.png) | 
