@@ -59,11 +59,11 @@ A high-level exploratory analysis focused on the three most popular roles: Data 
   
 ### 📊 1.2. Distribution Of Job Contract Types In Germany
 
-![1.2. Distribution of Job Contract Types in Germany](docs/images/1.2.%20Distribution%20of%20Job%20Contract%20Types%20in%20Germany_preview.png)
+![1.2. Distribution of Job Contract Types in Germany](Germany_Data_Market_notebooks/docs/images/1.2.%20Distribution%20of%20Job%20Contract%20Types%20in%20Germany_preview.png)
 *Click image to view full size*
 
-[📥 Download full resolution PNG](docs/images/1.2. Distribution of Job Contract Types in Germany.png) | 
-[🔗 View interactive HTML](docs/1.2. Distribution of Job Contract Types in Germany.html)
+[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/1.2.%20Distribution%20of%20Job%20Contract%20Types%20in%20Germany.png) | 
+[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/images/1.2.%20Distribution%20of%20Job%20Contract%20Types%20in%20Germany.html)
 
 * **Remote Work:**
 
@@ -120,11 +120,11 @@ This notebook analyzes how often specific skills appear in job postings, segment
 
 ### 📊 2.2. Likelihood Of Top Data Skills In Job Postings In Germany
 
-![2.2. Likelihood of Top Data Skills in Job Postings in Germany](docs/images/2.2. Likelihood of Top Data Skills in Job Postings in Germany_preview.png)
+![2.2. Likelihood of Top Data Skills in Job Postings in Germany](Germany_Data_Market_notebooks/docs/images/2.2.%20Likelihood%20of%20Top%20Data%20Skills%20in%20Job%20Postings%20in%20Germany_preview.png)
 *Click image to view full size*
 
-[📥 Download full resolution PNG](docs/images/2.2. Likelihood of Top Data Skills in Job Postings in Germany.png) | 
-[🔗 View interactive HTML](docs/2.2. Likelihood of Top Data Skills in Job Postings in Germany.html)
+[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/2.2.%20Likelihood%20of%20Top%20Data%20Skills%20in%20Job%20Postings%20in%20Germany.png) | 
+[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/images/2.2.%20Likelihood%20of%20Top%20Data%20Skills%20in%20Job%20Postings%20in%20Germany.html)
 
 **Conclusion**
 
@@ -158,11 +158,11 @@ This notebook examines monthly changes in skill demand percentages throughout 20
 
 ### 📊 3.1. Data Jobs Germany - Top Skills Trends.Png
 
-![3.1. Data Jobs Germany - Top Skills Trends.png](docs/images/3.1. Data Jobs Germany - Top Skills Trends.png_preview.png)
+![3.1. Data Jobs Germany - Top Skills Trends.png](Germany_Data_Market_notebooks/docs/images/3.1.%20Data%20Jobs%20Germany%20-%20Top%20Skills%20Trends.png_preview.png)
 *Click image to view full size*
 
-[📥 Download full resolution PNG](docs/images/3.1. Data Jobs Germany - Top Skills Trends.png.png) | 
-[🔗 View interactive HTML](docs/3.1. Data Jobs Germany - Top Skills Trends.png.html)
+[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/3.1.%20Data%20Jobs%20Germany%20-%20Top%20Skills%20Trends.png.png) | 
+[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/images/3.1.%20Data%20Jobs%20Germany%20-%20Top%20Skills%20Trends.png.html)
 
 **Insight**
 These trends further confirm Python and SQL as core entry skills for breaking into the German data job market.
@@ -200,11 +200,11 @@ Salary data availability in Germany is extremely limited and should not be inter
   
 ### 📊 4.1. Salary Distribution By Job Title In Germany.Png
 
-![4.1. Salary Distribution by Job Title in Germany.png](docs/images/4.1. Salary Distribution by Job Title in Germany.png_preview.png)
+![4.1. Salary Distribution by Job Title in Germany.png](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title520in%20Germany.png_preview.png)
 *Click image to view full size*
 
-[📥 Download full resolution PNG](docs/images/4.1. Salary Distribution by Job Title in Germany.png.png) | 
-[🔗 View interactive HTML](docs/4.1. Salary Distribution by Job Title in Germany.png.html)
+[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title520in%20Germany.png.png) | 
+[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title520in%20Germany.png.html)
 
 **Interpretation**
 The wide salary range reflects varying job complexity—from Excel-focused roles to positions requiring deep expertise in machine learning and neural networks. The Machine Learning Engineer role remains relatively new and is expected to evolve significantly with the rise of AI.
@@ -232,10 +232,13 @@ This notebook combines skill demand with salary data to identify high-value skil
   * Snowflake and Kubernetes appear in <8% of postings
   * Median salaries exceed €140,000
 
-### 5.1. Optimal Skills for Data Jobs in Germany
-[🔗 View interactive chart (HTML)](docs/images/5.1.%20Optimal%20Skills%20for%20Data%20Jobs%20in%20Germany.html)
+### 📊 5.1. Optimal Skills For Data Jobs In Germany.Png
 
-![Optimal Skills for Data Jobs in Germany](docs/images/5.1.%20Optimal%20Skills%20for%20Data%20Jobs%20in%20Germany.png)
+![5.1. Optimal Skills for Data Jobs in Germany.png](Germany_Data_Market_notebooks/docs/images/5.1.%20Optimal%20Skills%20for%20Data%20Jobs%20in%20Germany.png_preview.png)
+*Click image to view full size*
+
+[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/5.1.%20Optimal%20Skills%20for%20Data%20Jobs%20in%20Germany.png.png) | 
+[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/images/5.1.%20Optimal%20Skills%20for%20Data%20Jobs%20in%20Germany.png.html)
 
 **Conclusion**
 Advanced programming and cloud skills offer a higher return on investment compared to traditional tools like Excel.
@@ -343,7 +346,3 @@ Plotly is used throughout the project to deliver interactive, recruiter-friendly
 Germany’s 2023 data job market is highly concentrated in major cities, strongly office-oriented, and low in salary transparency. However, it remains accessible to skilled professionals without formal degrees and offers strong long-term potential—especially for those investing in Python, SQL, and cloud technologies.
 
 This project provides a structured, evidence-based overview to help data professionals make informed career decisions in the German market.
-
-
-
-[def]: docs/images/1.2.%20Distribution%20of%20Job%20Contract%20Types%20in%20Germany.html
