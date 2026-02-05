@@ -200,11 +200,11 @@ Salary data availability in Germany is extremely limited and should not be inter
   
 ### 📊 4.1. Salary Distribution By Job Title In Germany.Png
 
-![4.1. Salary Distribution by Job Title in Germany.png](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title%20in%20Germany_preview.png)
+![4.1. Salary Distribution by Job Title in Germany.png](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title%20in%20Germany.png_preview.png)
 *Click image to view full size*
 
-[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title%20in%20Germany.png) | 
-[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/4.1.%20Salary%20Distribution%20by%20Job%20Title%20in%20Germany.html)
+[📥 Download full resolution PNG](Germany_Data_Market_notebooks/docs/images/4.1.%20Salary%20Distribution%20by%20Job%20Title%20in%20Germany.png.png) | 
+[🔗 View interactive HTML](Germany_Data_Market_notebooks/docs/4.1.%20Salary%20Distribution%20by%20Job%20Title%20in%20Germany.png.html)
 
 **Interpretation**
 The wide salary range reflects varying job complexity—from Excel-focused roles to positions requiring deep expertise in machine learning and neural networks. The Machine Learning Engineer role remains relatively new and is expected to evolve significantly with the rise of AI.
